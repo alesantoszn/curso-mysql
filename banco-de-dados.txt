@@ -2,3 +2,7 @@ CREATE DATABASE <nomedb>;
 SHOW DATABASE;
 USE <nomdb>;
 SELECT DATABASE();
+
+CREATE TABLE tablename(
+name VARCHAR(50),
+age INT);
